@@ -20,3 +20,8 @@ After researching pathfinding algorithms I found my algorithm was most similar t
 The new programs had the following changes:
 * Each node checks the distance between the node position and the destination. The nodes are ordered from closest to farthest.
 * The closest nodes will spread in all valid directions before farther nodes.
+
+## Functions
+* The numbers printed onto the console show the time taken per frame in miliseconds.
+* Left click creates obstacles.
+* Right click removes obstacles.
