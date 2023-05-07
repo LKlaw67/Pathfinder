@@ -1,0 +1,10 @@
+﻿  main.cpp
+d:\documents\c++\pathfinder\pathfinder\main.cpp(40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\documents\c++\pathfinder\pathfinder\main.cpp(64): warning C4018: '<': signed/unsigned mismatch
+d:\documents\c++\pathfinder\pathfinder\main.cpp(77): warning C4018: '<': signed/unsigned mismatch
+d:\documents\c++\pathfinder\pathfinder\main.cpp(102): warning C4018: '<': signed/unsigned mismatch
+  pathfinder.cpp
+d:\documents\c++\pathfinder\pathfinder\pathfinder.cpp(32): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+d:\documents\c++\pathfinder\pathfinder\pathfinder.cpp(35): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  pathfinder.vcxproj -> D:\Documents\C++\pathfinder\Debug\pathfinder.exe

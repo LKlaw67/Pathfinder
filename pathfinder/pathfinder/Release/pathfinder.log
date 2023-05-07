@@ -1,0 +1,11 @@
+﻿  main.cpp
+d:\documents\c++\pathfinder\pathfinder\main.cpp(40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\documents\c++\pathfinder\pathfinder\main.cpp(64): warning C4018: '<': signed/unsigned mismatch
+d:\documents\c++\pathfinder\pathfinder\main.cpp(77): warning C4018: '<': signed/unsigned mismatch
+d:\documents\c++\pathfinder\pathfinder\main.cpp(102): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  2 of 254 functions ( 0.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    16 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  pathfinder.vcxproj -> D:\Documents\C++\pathfinder\Release\pathfinder.exe
